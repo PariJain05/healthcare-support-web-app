@@ -47,5 +47,13 @@ This application can be used by healthcare NGOs to:
 - Email/SMS notification system
 
 
-## 📷 Screenshots (Optional)
+## 📷 Screenshots
+### Healthcare Support Form
+![Form Screenshot](screenshots/form.png)
+
+### Automated Response Output
+![Output1 Screenshot](screenshots/output1.png)
+![Output2 Screenshot](screenshots/output2.png)
+![Output3 Screenshot](screenshots/output3.png)
+
 
