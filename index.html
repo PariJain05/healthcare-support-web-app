@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Healthcare Support</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h2>Healthcare Support Request</h2>
+
+    <form id="supportForm">
+      <label>Name:</label>
+      <input type="text" required />
+
+      <label>Issue Type:</label>
+      <select id="issue">
+        <option>Medical Assistance</option>
+        <option>Mental Health</option>
+        <option>Emergency</option>
+      </select>
+
+      <label>Description:</label>
+      <textarea></textarea>
+
+      <button type="submit">Submit</button>
+      <p>
+        <i
+          >This system uses automated logic to prioritize healthcare
+          requests.</i
+        >
+      </p>
+    </form>
+
+    <p id="response"></p>
+
+    <script src="script.js"></script>
+  </body>
+</html>
